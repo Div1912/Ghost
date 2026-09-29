@@ -28,7 +28,7 @@
 > 
 > **Latest Announcement on X:** [Ghost Level 6 Features Release Post](https://x.com/Ghostmidnight1/status/2103756679468954011) · Follow [@Ghostmidnight1](https://x.com/Ghostmidnight1) for live updates
 > 
-> **Live User Feedback Responses:** [View Public Google Sheets Feedback Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)
+> **Live User Feedback Responses (Direct Google Sheet):** [https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)
 > 
 > **Preprod Contract Address (MANDATORY):** [`d72f60d3f297dc84078e19677b60e88759f9982a3ea3dbf87a387814cda034ad`](https://preprod.midnightexplorer.com/contracts/d72f60d3f297dc84078e19677b60e88759f9982a3ea3dbf87a387814cda034ad)
 > 
@@ -36,7 +36,7 @@
 > - [Live Demo Application](https://ghost-kappa-one.vercel.app/)
 > - [Demo Video Walkthrough (YouTube)](https://www.youtube.com/watch?v=Z0rMz7RlNQc)
 > - [Latest Announcement on X](https://x.com/Ghostmidnight1/status/2103756679468954011)
-> - [Live User Feedback Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)
+> - [Live User Feedback Spreadsheet (Google Sheets Public Log)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)
 > - [Operator & User Guide](./docs/USAGE.md)
 > - [Preprod User Feedback & Level 6 Improvements](./docs/FEEDBACK.md)
 > - [Preprod Verified Users (Level 5 & 6 — 72 Verified Users)](./USERS.md)
@@ -407,6 +407,24 @@ Ghost is fully integrated with Midnight. It generates real zero-knowledge proofs
 * **Transaction Hash:** [`dac35704d1124c5c7bd884e97376040b40b37c02ccfe544da8bc1029e01debde`](https://preview.midnightexplorer.com/transactions/dac35704d1124c5c7bd884e97376040b40b37c02ccfe544da8bc1029e01debde)
 * **Status:** `SUCCESS` (Verified via ZK Proof)
 <img src="./Screenshot/Transaction%20Hash.png" alt="Transaction Hash" width="100%" />
+
+---
+
+## User Feedback Loop & Continuous Platform Evolution
+
+Ghost's Level 6 milestone was directly shaped by live operator testing across **72 verified on-chain Midnight Preprod users** and **20 distinct launch cohort operators**:
+
+* **Live Public Google Sheet (Raw Operator Responses):** [https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)
+* **Comprehensive Feedback Documentation & Matrix:** [`docs/FEEDBACK.md`](./docs/FEEDBACK.md)
+* **Verified Preprod User Registry (72 On-Chain Addresses):** [`USERS.md`](./USERS.md)
+* **Launch Cohort Registry (20 Distinct Addresses):** [`LAUNCH_USERS.md`](./LAUNCH_USERS.md)
+
+### Code-Traceable Improvements Implemented from Feedback:
+1. **Dark Mode & Contrast Calibration** (`app/dashboard/layout.tsx`): High-visibility contrast theme toggle requested by enterprise operators for extended monitoring sessions.
+2. **Midnight Preprod Testnet Faucet Quick-Link** (`app/dashboard/layout.tsx`): 1-click access for operators to fund testnet wallets without leaving the dApp.
+3. **1-Click Address Copy & Deep Link Navigation** (`app/dashboard/page.tsx`): Direct clipboard copying of contract addresses and instant deep linking to Midnight Explorer.
+4. **RFC-4180 CSV Audit Log Export** (`app/dashboard/audit/page.tsx`): Direct export of cryptographic audit logs for enterprise accounting and compliance workflows.
+5. **Automated Verification Test Suite** ([`tests/level6-improvements.test.ts`](./tests/level6-improvements.test.ts)): Unit tests guaranteeing all feedback improvements remain active and verified across CI/CD builds.
 
 ---
 

@@ -2,7 +2,7 @@
 
 This document consolidates raw feedback, user sentiment themes, and platform architectural improvements collected from **72 live preprod operators** onboarded to the Ghost / Luma Zero-Knowledge Autonomy Layer on the Midnight Network.
 
-> 📊 **Live Public Spreadsheet:** [View User Feedback Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)  
+> 📊 **Live Public Spreadsheet:** [https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)  
 > 🧪 **Automated Test Evidence:** [`tests/level6-improvements.test.ts`](../tests/level6-improvements.test.ts) (5 / 5 unit tests passing)  
 > 📦 **Implementation Commit:** [`e3d3a41`](https://github.com/Div1912/Luma/commit/e3d3a41)
 
