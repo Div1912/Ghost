@@ -28,7 +28,7 @@
 > 
 > **Latest Announcement on X:** [Ghost Level 6 Features Release Post](https://x.com/Ghostmidnight1/status/2103756679468954011) · Follow [@Ghostmidnight1](https://x.com/Ghostmidnight1) for live updates
 > 
-> **Live User Feedback Responses (Direct Google Sheet):** [https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)
+> **Live User Feedback Responses (Direct Google Sheet):** [https://docs.google.com/spreadsheets/d/1-znRUsNkzDg6dO7qRCrwsDpVjzYWlggBLnN41fQCdJk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1-znRUsNkzDg6dO7qRCrwsDpVjzYWlggBLnN41fQCdJk/edit?usp=sharing)
 > 
 > **Preprod Contract Address (MANDATORY):** [`d72f60d3f297dc84078e19677b60e88759f9982a3ea3dbf87a387814cda034ad`](https://preprod.midnightexplorer.com/contracts/d72f60d3f297dc84078e19677b60e88759f9982a3ea3dbf87a387814cda034ad)
 > 
@@ -36,7 +36,7 @@
 > - [Live Demo Application](https://ghost-kappa-one.vercel.app/)
 > - [Demo Video Walkthrough (YouTube)](https://www.youtube.com/watch?v=Z0rMz7RlNQc)
 > - [Latest Announcement on X](https://x.com/Ghostmidnight1/status/2103756679468954011)
-> - [Live User Feedback Spreadsheet (Google Sheets Public Log)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRil6AaS3PflN8c-XBKMkozNLaKpPa4U1DQtL5iBkWjzLS_xeKE2rldMzbPRhIMsTtrMQ-kmNSvPov/pubhtml)
+> - [Live User Feedback Spreadsheet (Google Sheets Public Log)](https://docs.google.com/spreadsheets/d/1-znRUsNkzDg6dO7qRCrwsDpVjzYWlggBLnN41fQCdJk/edit?usp=sharing)
 > - [Operator & User Guide](./docs/USAGE.md)
 > - [Preprod User Feedback & Level 6 Improvements](./docs/FEEDBACK.md)
 > - [Preprod Verified Users (Level 5 & 6 — 72 Verified Users)](./USERS.md)
